@@ -1,5 +1,4 @@
-# Misho Kursova 🚀
-
+# Misho Kursova 
 **Misho Kursova** е перфектен Meme Generator (Генератор на мемета). Позволява добавяне на горен и долен текст към изображение по избор, както и запазването на творението в база данни.
 
 Това хранилище изпълнява изискванията за: **Контейнеризация на проект с Docker Compose**.
@@ -58,7 +57,7 @@ docker compose down
 ```
 *(Забележка: Данните ви в базата данни ще се запазят, защото се използва Docker volume)*.
 
-## Docker Hub Образи 🐳
+## Docker Hub Образи 
 
 Основните Docker образи са изградени и качени публично в Docker Hub:
 - **Backend Image:** [exile11/meme-generator-backend:latest](https://hub.docker.com/r/exile11/meme-generator-backend)
