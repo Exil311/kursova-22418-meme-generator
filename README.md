@@ -57,3 +57,10 @@ docker compose up --build -d
 docker compose down
 ```
 *(Забележка: Данните ви в базата данни ще се запазят, защото се използва Docker volume)*.
+
+## Docker Hub Образи 🐳
+
+Основните Docker образи са изградени и качени публично в Docker Hub:
+- **Backend Image:** [exile11/meme-generator-backend:latest](https://hub.docker.com/r/exile11/meme-generator-backend)
+- **Frontend Image:** [exile11/meme-generator-frontend:latest](https://hub.docker.com/r/exile11/meme-generator-frontend)
+
